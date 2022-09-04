@@ -10,11 +10,12 @@
 	</parent>
 	<groupId>com.satanlabs</groupId>
 	<artifactId>service-framework</artifactId>
-	<version>1.0.0-test</version>
+	<version>1.0.0-pre_alpha</version>
 	<name>service-framework</name>
 	<description>service-framework</description>
 	<properties>
 		<java.version>1.8</java.version>
+		<spring-boot.repackage.skip>true</spring-boot.repackage.skip>
 	</properties>
 	<dependencies>
 		<dependency>
