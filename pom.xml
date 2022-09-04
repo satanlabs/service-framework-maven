@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.satanlabs</groupId>
-	<artifactId>service-framework</artifactId>
-	<version>1.0.0-pre_alpha</version>
-	<name>service-framework</name>
-	<description>service-framework</description>
+	<artifactId>service_framework</artifactId>
+	<version>1.0.1-pre_alpha</version>
+	<name>service_framework</name>
+	<description>service framework in maven</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-boot.repackage.skip>true</spring-boot.repackage.skip>
