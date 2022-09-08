@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.satanlabs</groupId>
 	<artifactId>service_framework</artifactId>
-	<version>1.0.1-pre_alpha</version>
+	<version>1.0.1</version>
 	<name>service_framework</name>
 	<description>service framework in maven</description>
 	<properties>
