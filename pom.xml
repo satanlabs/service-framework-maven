@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.satanlabs</groupId>
 	<artifactId>service_framework</artifactId>
-	<version>1.0.5</version>
+	<version>1.0.7</version>
 	<name>service_framework</name>
 	<description>service framework in maven</description>
 	<properties>
@@ -133,11 +133,11 @@
 			<version>1.0.11.RELEASE</version>
 		</dependency>
 
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-boot-starter</artifactId>
-			<version>3.0.0</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>io.springfox</groupId>-->
+<!--			<artifactId>springfox-boot-starter</artifactId>-->
+<!--			<version>3.0.0</version>-->
+<!--		</dependency>-->
 
 		<dependency>
 			<groupId>com.querydsl</groupId>
